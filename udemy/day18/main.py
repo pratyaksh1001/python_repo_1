@@ -1,0 +1,18 @@
+import turtle
+import heroes
+print(heroes.gen())
+timmy=turtle.Turtle()
+timmy.shape("turtle")
+timmy.color("red")
+timmy.speed(1)
+timmy.pencolor("white")
+timmy.setposition(-50,-50)
+timmy.pencolor("black")
+timmy.forward(100)
+timmy.left(90)
+timmy.forward(100)
+timmy.left(90)
+timmy.forward(100)
+timmy.left(90)
+timmy.forward(100)
+turtle.exitonclick()

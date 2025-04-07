@@ -1,0 +1,118 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In Ms. Kobayashi&#039;s Dragon Maid, who is Kobayashi&#039;s maid?",
+        "correct_answer": "Tohru",
+        "incorrect_answers": [
+            "Lucoa",
+            "Kanna",
+            "Elma"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "FLAC stands for &quot;Free Lossless Audio Condenser&quot;&#039;",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is NOT a playable character in the 2016 video game Overwatch?",
+        "correct_answer": "Invoker",
+        "incorrect_answers": [
+            "Mercy",
+            "Winston",
+            "Zenyatta"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Who is depicted on the US hundred dollar bill?",
+        "correct_answer": "Benjamin Franklin",
+        "incorrect_answers": [
+            "George Washington",
+            "Abraham Lincoln",
+            "Thomas Jefferson"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "How many voice channels does the Super Nintendo Entertainment System support?",
+        "correct_answer": "8",
+        "incorrect_answers": [
+            "6",
+            "10",
+            "12"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Gadgets",
+        "question": "Which round does a WW2 M1 Garand fire?",
+        "correct_answer": ".30-06",
+        "incorrect_answers": [
+            ".308",
+            "7.62",
+            "7.62x51mm"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Between 1973 to 1990, what country was ruled by dictator Augusto Pinochet?",
+        "correct_answer": "Chile",
+        "incorrect_answers": [
+            "Ethiopia",
+            "Indonesia",
+            "Nicaragua"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which Dota 1 hero changed gender when ported to Dota 2?",
+        "correct_answer": "Legion Commander",
+        "incorrect_answers": [
+            "Axe",
+            "Keeper of the Light",
+            "Templar Assassin"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Portal 2&quot;, Cave Johnson started out Aperture Science as a shower curtain company.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "From where does the Nintendo video game character Mario derive his name?",
+        "correct_answer": "The landlord of the American headquarters",
+        "incorrect_answers": [
+            "Shigeru Miyamoto&#039;s father in law",
+            "Satoru Iwata&#039;s plumber",
+            "The date (Mar 10) that Donkey Kong was released."
+        ]
+    }
+]

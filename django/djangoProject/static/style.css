@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+
+#navbar{
+    background-color: cornflowerblue;
+    font-size: large;
+    height: 50px;
+    position: sticky;
+    top: 0;
+}
+.top-content{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:cadetblue;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+.top-content-heading{
+    font-size: large;
+    background-color: darkgreen;
+    color: white;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    width:fit-content;
+    padding: 10px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    border-radius: 10px;
+}
+

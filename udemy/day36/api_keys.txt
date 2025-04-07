@@ -1,0 +1,7 @@
+vantage key = QQA7NEVR47LPP4NK
+vantage end point = https://www.alphavantage.co/query (many parameters required)
+
+news api key = 31015f2d7aa64c4bb88ab2547c1378ae
+news api end point = https://newsapi.org/v2/everything (many parameters required)
+
+another news api key = pub_47082d694f3236bc4cd6eb10dc7561b2a0fe1

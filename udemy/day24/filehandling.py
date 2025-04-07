@@ -1,0 +1,13 @@
+file=open("test.txt","r")
+file2=open("test2.txt","r")
+output=open("sampleoutput.txt","w")
+names=file.readlines()
+print(names)
+format=file2.read()
+for name in names:
+    t=format.replace("name", name)
+    print(t)
+    output.write(t)
+file.close()
+file2.close()
+output.close()

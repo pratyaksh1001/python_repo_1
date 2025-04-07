@@ -1,0 +1,164 @@
+{
+    "cod": "200",
+    "message": 0,
+    "cnt": 4,
+    "list": [
+        {
+            "dt": 1740398400,
+            "main": {
+                "temp": 303.63,
+                "feels_like": 301.66,
+                "temp_min": 303.63,
+                "temp_max": 303.63,
+                "pressure": 1014,
+                "sea_level": 1014,
+                "grnd_level": 972,
+                "humidity": 14,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01d"
+                }
+            ],
+            "clouds": {
+                "all": 1
+            },
+            "wind": {
+                "speed": 2.73,
+                "deg": 134,
+                "gust": 2.98
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-02-24 12:00:00"
+        },
+        {
+            "dt": 1740409200,
+            "main": {
+                "temp": 301.68,
+                "feels_like": 300.19,
+                "temp_min": 297.77,
+                "temp_max": 301.68,
+                "pressure": 1015,
+                "sea_level": 1015,
+                "grnd_level": 974,
+                "humidity": 16,
+                "temp_kf": 3.91
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01n"
+                }
+            ],
+            "clouds": {
+                "all": 1
+            },
+            "wind": {
+                "speed": 1.55,
+                "deg": 311,
+                "gust": 1.63
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-02-24 15:00:00"
+        },
+        {
+            "dt": 1740420000,
+            "main": {
+                "temp": 298.54,
+                "feels_like": 297.66,
+                "temp_min": 296,
+                "temp_max": 298.54,
+                "pressure": 1015,
+                "sea_level": 1015,
+                "grnd_level": 974,
+                "humidity": 20,
+                "temp_kf": 2.54
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01n"
+                }
+            ],
+            "clouds": {
+                "all": 0
+            },
+            "wind": {
+                "speed": 3.74,
+                "deg": 338,
+                "gust": 5.42
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-02-24 18:00:00"
+        },
+        {
+            "dt": 1740430800,
+            "main": {
+                "temp": 293.53,
+                "feels_like": 292.25,
+                "temp_min": 293.53,
+                "temp_max": 293.53,
+                "pressure": 1015,
+                "sea_level": 1015,
+                "grnd_level": 973,
+                "humidity": 24,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01n"
+                }
+            ],
+            "clouds": {
+                "all": 4
+            },
+            "wind": {
+                "speed": 1.6,
+                "deg": 31,
+                "gust": 1.97
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-02-24 21:00:00"
+        }
+    ],
+    "city": {
+        "id": 1267174,
+        "name": "Khair\u0101garh",
+        "coord": {
+            "lat": 21.4177,
+            "lon": 80.9796
+        },
+        "country": "IN",
+        "population": 15734,
+        "timezone": 19800,
+        "sunrise": 1740358853,
+        "sunset": 1740400686
+    }
+}

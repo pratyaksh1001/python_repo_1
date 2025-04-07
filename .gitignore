@@ -1,0 +1,20 @@
+__pycache__
+pythonProject
+sql_with_python
+.conda
+.idea
+.vscode
+.cph
+.venv
+.venv1
+machine learning/pytorch/.idea
+machine learning/tensorflow/.idea
+web scraping
+machine learning/pytorch/data
+machine learning/pytorch/mnist
+machine learning/pytorch/nlp_data
+machine learning/recommendation/archive
+machine learning/tensor_flow/venv
+visualization
+practice/archive
+practice/archive.zip
