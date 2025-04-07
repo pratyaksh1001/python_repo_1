@@ -1,7 +1,6 @@
 from email.policy import default
-import joblib
 import streamlit as st
-
+import pickle
 ref=['Normal weight', 'Obese', 'Overweight', 'Underweight']
 gender_ref={"Male":1,"Female":0}
 age=st.slider("enter age",10,110,20)
@@ -13,7 +12,7 @@ physical_activity=st.selectbox("select physical activity",["not at all","sometim
 ref_2={"not at all":1,"sometimes":2,"frequently":3,"very regularly":4}
 physical_activity=ref_2[physical_activity]
 l=[age,gender,height,weight,bmi,physical_activity]
-model=joblib.load("model.pkl")
+model=pickle.load(open("model.pkl","rb"))
 print(model.predict([l,])[0].argmax())
 if l:
     st.title(f"you are {ref[model.predict([l,])[0].argmax()]}")
