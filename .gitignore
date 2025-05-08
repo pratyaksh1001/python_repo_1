@@ -18,3 +18,9 @@ machine learning/tensor_flow/venv
 visualization
 practice/archive
 practice/archive.zip
+*.csv
+*.jpg
+*.png
+*.jpeg
+*.h
+*.pkl
